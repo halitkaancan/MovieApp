@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">MovieHub</string>
     <string name="app">MovieHub</string>
-    <string name="watchingAccout">Who is watching ?</string>
-    <string name="logoutText">Log Out</string>
+    <string name="watchingAccout">Kim izliyor ?</string>
+
+    <string name="logoutText">Çıkış yap</string>
 
 
 </resources>

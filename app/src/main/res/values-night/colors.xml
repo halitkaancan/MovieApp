@@ -3,9 +3,9 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="dayNight">#FF000000</color>
+    <color name="dayNight">#FFFFFFFF</color>
 
-    <color name="primaryColor">#FFFFFFFF</color>
-    <color name="exitColor">#E80303</color>
+    <color name="primaryColor">#FF000000</color>
+    <color name="exitColor">#524B4B</color>
 
 </resources>
